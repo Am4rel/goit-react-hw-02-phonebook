@@ -1,0 +1,12 @@
+.divBox {
+  width: 500px;
+
+  margin-right: auto;
+  margin-left: auto;
+
+  border: 1px solid black;
+}
+
+.title {
+  text-align: center;
+}

@@ -1,0 +1,22 @@
+.list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  width: 400px;
+
+  align-items: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.listItem {
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+}
+
+.listItem:not(:last-child) {
+  margin-bottom: 20px;
+}

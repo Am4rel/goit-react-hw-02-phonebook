@@ -1,0 +1,14 @@
+.formBox {
+  display: flex;
+
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+  border: 1px solid black;
+}
